@@ -27,7 +27,7 @@ include 'define.php';
         include $inc_path . '/inc/header.php';
         ?>
         <div class="main_col">
-          <h1>◯◯様（店舗名） 管理ページ</h1>
+          <h1>◯◯様 管理ページ</h1>
           <ul class="info_news">
             <li>
               <h3>（AM0:00-PM23:59）</h3>
