@@ -29,7 +29,9 @@ include 'define.php';
         <div class="main_col">
           <h1>女性一覧</h1>
           <button class="push-button" onclick="location.href='profile.php'">新規登録</button>
-          <p style="text-align:center; background:#ee5961; padding:10px; color:#fff; font-size:14px; margin:30px 0;">ドラッグ&ドロップで並び替えが可能です</p>
+          <p style="background:#ee5961; padding:10px; color:#fff; font-size:14px; margin:30px 0;">ドラッグ&ドロップで並び替えが可能です。<br>
+          セラピスト以外の登録は禁止となります（例 イベント情報、店長、スタッフなど）。
+          </p>
           <div class="container_photo">
             <div class="grid-item_photo">
               <img src="<?=$com_href?>/img/samp01.jpg">
