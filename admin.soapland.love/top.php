@@ -38,7 +38,7 @@ include 'define.php';
             </li>
           </ul>
           <h1>本日の出勤女性</h1>
-
+          <p style="background:#ee5961; padding:10px; color:#fff; font-size:14px; margin:30px 0;">予約完売のチェックをいれると「受付終了」と表示され最後尾に移動されます。<br>退勤時間を過ぎても同じく「受付終了」マークがつき最後尾に移動されます。</p>
           <button type="submit" class="push-button">更新</button>
           <div class="container_photo">
             <div class="grid-item_photo">
