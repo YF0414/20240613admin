@@ -1,6 +1,6 @@
 <header class="header">
   <div class="user-info">
-    <div class="user-avatar">◯◯様（店舗名）</div>
+    <div class="user-avatar">◯◯様</div>
     <div class="user-details">
       <h3 class="user-name"><?=SITE_NAME?></h3>
     </div>
